@@ -64,7 +64,7 @@ const MeetingRoom = () => {
                 >
                 <CallParticipantsList onClose={() => setShowParticipants(false)} />
                 </div>
-            </div>
+            </div>-
 
             {/* call controls */}
             <div className="fixed bottom-0 flex w-full items-center justify-center gap-5">

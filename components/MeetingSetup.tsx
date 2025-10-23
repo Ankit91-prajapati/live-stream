@@ -38,7 +38,7 @@ const MeetingSetup = ({
               call.camera.enable();
               call.microphone.enable();
             }
-          }, [isMicCamToggled, call.camera, call.microphone]);
+          }, []);
 
 
         if (callTimeNotArrived)

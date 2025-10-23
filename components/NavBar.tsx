@@ -18,9 +18,10 @@ const NavBar = () => {
               <Link href="/" className="flex items-center gap-1 hover:scale-150 duration-500 ">
                 <Image
                   src="/assets/logo.svg"
+                  
                   width={60}
                   height={60}
-                  alt="Let's talk"
+                  alt="live stream"
                 />
               </Link>
 
